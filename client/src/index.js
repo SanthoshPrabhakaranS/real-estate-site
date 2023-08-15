@@ -18,7 +18,7 @@ root.render(
           domain={"dev-gcmbk7c7656rga7p.jp.auth0.com"}
           clientId={"nhcv8I1ex884BjBdz3UNzLD4ubftoSTS"}
           authorizationParams={{
-            redirect_uri: "http://localhost:3000",
+            redirect_uri: "https://real-estate-site-url.vercel.app",
           }}
           audience="http://localhost:5000"
           scope="openid profile email"
